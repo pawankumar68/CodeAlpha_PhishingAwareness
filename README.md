@@ -20,8 +20,8 @@ This presentation covers the fundamentals of phishing attacks, including:
 
 ## 📂 Contents
 
-- `Phishing_Awareness_Training.pptx` — the full presentation (11 slides)
-- Quiz link: [Phishing Awareness Quiz](https://docs.google.com/forms/d/e/1FAIpQLSezMow4sI2gql7r475Cn7x-i2qXvGRrVRYiO6S7oxO4ntNGAA/viewform)
+- `Phishing_Awareness_Training.pptx` — the full editable presentation
+- `Phishing_Awareness_Training.pdf` — PDF version for quick preview (viewable directly on GitHub)
 
 ## 🎯 Key Takeaways Covered
 
